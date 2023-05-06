@@ -32,5 +32,6 @@ int main()
     d = pow(((b.getnum2())-(a.getnum2())),2);
     e = sqrt(c+d);
     cout<<e;
-    return 1;    
+    return 1; 
+    cout<<"Thank You"   
 }
