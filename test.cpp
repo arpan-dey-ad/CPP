@@ -1,7 +1,7 @@
-#include<iostream>
-using namespace std;
+include <algorithm>
+#include <iostream>
+  
 int main()
 {
     cout<<"hello";
-    
 }
